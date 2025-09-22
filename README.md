@@ -1,7 +1,9 @@
 # 📊Rupiah-to-USD-Exchange-Rate-Analysis---Data-Mining-Project
+
 This project is a Data Mining and Machine Learning study that aims to predict the Indonesian Rupiah (IDR) exchange rate against the US Dollar (USD) using Linear Regression. The work was conducted as part of the Data Mining course.
 
 **📌 Project Overview**
+
 Fluctuations in exchange rates play a critical role in Indonesia’s economy, influencing imports, exports, foreign debt, inflation, and investments.
 This project leverages data mining techniques and a Linear Regression model to predict the Rupiah–USD exchange rate by analyzing key economic indicators such as:
 -Kurs Transaksi USD
@@ -11,10 +13,13 @@ This project leverages data mining techniques and a Linear Regression model to p
 -Cadangan Devisa
 
 **⚙️ Methodology**
+
 **Data Collection**: Data obtained from Bank Indonesia
  and BPS
+ 
 
 **Preprocessing**:
+
 -Data cleaning & missing value handling
 -Feature engineering (e.g., Kurs Ratio, Trade Balance)
 -Encoding categorical features
@@ -24,6 +29,7 @@ This project leverages data mining techniques and a Linear Regression model to p
 **Modeling**: Linear Regression
 
 **Evaluation**:
+
 -*Metrics*: MAE, R², RMSE
 -Cross Validation to ensure model generalization
 
